@@ -1,7 +1,10 @@
-# Smith Agent Farm
+# Smith
 
 > [!WARNING]
 > This is pre-alpha, doesn't work, might burn your house down.
+
+This is currently used to try out Github webhook events, maybe it will be
+something more in the future, maybe not.
 
 ## Development
 
