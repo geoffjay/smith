@@ -1,0 +1,7 @@
+version: "3"
+
+tasks:
+  jupyter:
+    aliases: [j, jl, jup]
+    cmds:
+      - jupyter lab
